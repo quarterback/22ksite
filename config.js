@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://blog.ronbronson.com',
   pathPrefix: '/',
   title: 'Ron Bronson',
   subtitle: '',
@@ -25,8 +25,8 @@ module.exports = {
     }
   ],
   author: {
-    name: 'Ron',
-    photo: '/photo.jpg',
+    name: 'Ron Bronson',
+    photo: '',
     bio: 'Design generalist with deep experience working where policy, services, and design meet.',
     contacts: {
       email: 'contact[at]ronbronson.com',
