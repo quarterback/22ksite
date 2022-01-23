@@ -20,14 +20,14 @@ module.exports = {
       path: '/pages/about'
     },
     {
-      label: 'Contact me',
-      path: '/pages/contacts'
+      label: 'Talks',
+      path: '/pages/talks'
     }
   ],
   author: {
     name: 'Ron Bronson',
     photo: '',
-    bio: 'Design generalist with deep experience working where policy, services, and design meet.',
+    bio: 'Information architect. Service designer. Tea sommelier. Skeeball pro.',
     contacts: {
       email: 'contact[at]ronbronson.com',
       facebook: '',
