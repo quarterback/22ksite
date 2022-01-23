@@ -8,4 +8,3 @@ I’m a generalist with deep experience working where policy, services, and digi
 
 Outside of work, I coach high school tennis, serve on the Portland Historic Landmarks Commission, and will gladly introduce you to Pesäpallo or beat you at skeeball. 
 
-

@@ -1,11 +1,40 @@
 ---
-title: "About Ron"
+title: "Speaking"
 template: "page"
 socialImage: ""
 ---
 
-I’m a generalist with deep experience working where policy, services, and digital systems meet. I’ve spent the past two decades rebuilding vital digital infrastructure to better service the public, working with senior stakeholders to navigate complex spaces, all while providing good energy and a solid soundtrack along the way. These days, I’m Director of Design at 18F. 
+**Select Talks**
+FEB. ‘22: Mindset of Design Festival (New Zealand)
+NOV ‘21: IXDA OSLO (norway)
+OCt ‘21: Design Week Colorado Springs
+OCT ‘20: SERVICE DESIGN NETWORK GLOBAL CONFERENCE: The consequences in service design
+Oct. ‘20: USWDS Monthly 
+HOW TO AVOID deceptive design patterns
+July ‘20: An Event Apart HCD 
+The Researcher’s Role in Reducing Consequence Design
+June ‘19: UXR Conference Toronto 
+Involving Stakeholders in Design Research
+Feb ‘19: Donut.js Portland
+Defense Against Dark Patterns
+Apr. ‘18: Drupalcon Nashville
+Migrating a Small City to Drupal
+July ‘17: Design & Content Vancouver
+Discovery & Microinteractions: Improving the Product Toolbox
+May ‘17: Pixel Up! Cape Town
 
-Outside of work, I coach high school tennis, serve on the Portland Historic Landmarks Commission, and will gladly introduce you to Pesäpallo or beat you at skeeball. 
+**Interviews**
+
+SEPT. ‘21: Content Types (IA LENS A DAY)
+JULY ‘21: ON SERVICE DESIGN (surfacing podcast) 
+JULY ‘21: REVISION PATH PODCAST
+june  ‘21: EDGE CASES & EMPATHY (ACT-IAC)
+MAY ‘21: my journey (human, the designer)
+Nov. ‘20: Building Better Centered Products (EditorX)
+
+Oct. ‘20: Identifying Consequence Design (Digital.gov)
+June ‘20: Technically Speaking Podcast
+
+May ‘20: Thought Feeder podcast
 
 
